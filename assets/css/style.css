@@ -1,0 +1,21 @@
+
+body{
+	padding-top: 150px;
+	background-image: url("../images/puzz.jpg");
+	background-size: 1920px 1080px;
+}
+
+img{
+	max-height: 130%;
+	max-width: 130%;
+	visibility: hidden;
+}
+
+#exhead{
+	top: 50px;
+}
+
+h1{
+	font-size: 36px;
+	color: #ddd;
+}
